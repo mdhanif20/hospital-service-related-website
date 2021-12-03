@@ -1,11 +1,14 @@
-# Getting Started with Sab'a Sanabill Hospitall
+# This is a hospital management website.
 
-This is a react project [Sab'a Sanabill Hospitall](https://github.com/facebook/create-react-app).
+ [Sab'a Sanabill Hospitall](https://sab-a-sanabill-hospital.web.app/).
 
 ## Available Scripts
-1. It is a hospital website.
-2. There you can get all information about our sab'a sanabill hospital.
-3. A person can easily take emergency any kind of service by using this website.
+
+7. This is a website related to hospital services.
+8. or sign up by using email and a password.
+ Users can log in 
+9. Users can buy services and can contact hospital authorities.
+2. Users can get information about this hospital.
 4. There describe our defferent medical service details.
-5. A paisent can easily get information about our medical by this website.
-6. There a paisent can get information avarage different type of service coust and raiting and our successrate.
+5. Users can easily get information about our medical by using this website.
+
